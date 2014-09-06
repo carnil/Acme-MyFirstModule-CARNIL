@@ -4,6 +4,8 @@ use 5.006;
 use strict;
 use warnings FATAL => 'all';
 
+print "Hello World!\n"
+
 =head1 NAME
 
 Acme::MyFirstModule::CARNIL - The great new Acme::MyFirstModule::CARNIL!
